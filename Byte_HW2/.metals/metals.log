@@ -1,0 +1,1095 @@
+2023.03.22 18:58:59 INFO  Started: Metals version 0.11.11 in workspace '/Users/byte/Playground/scala/HW2' for client Visual Studio Code 1.76.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/byte/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.22 18:58:59 INFO  time: initialize in 0.41s[0m
+2023.03.22 18:59:00 WARN  Build server is not auto-connectable.[0m
+2023.03.22 18:59:00 WARN  no build tool detected in workspace '/Users/byte/Playground/scala/HW2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.22 18:59:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:01 INFO  no build target found for /Users/byte/Playground/scala/HW2/Question1.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.22 18:59:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:02 INFO  time: code lens generation in 2.03s[0m
+2023.03.22 18:59:02 INFO  time: code lens generation in 1.04s[0m
+2023.03.22 18:59:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:20 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:21 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:58 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 18:59:58 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:34 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:34 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:00:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:01:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:01:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:01:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:02:54 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:02:54 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+Exception in thread "pool-3-thread-1" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2023.03.22 19:03:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:03:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:04:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:04:02 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:04:02 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:04:02 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:04:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1 copy.scala[0m
+2023.03.22 19:04:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1 copy.scala[0m
+2023.03.22 19:04:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1 copy.scala[0m
+2023.03.22 19:04:22 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:04:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:05:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:05:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:05:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:05:11 WARN  Using indexes to guess the definition of insertLast[0m
+2023.03.22 19:05:12 WARN  Using indexes to guess the definition of insertLast[0m
+2023.03.22 19:05:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:05:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:05:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2 copy.scala[0m
+2023.03.22 19:05:22 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:05:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+Exception in thread "pool-3-thread-2" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2023.03.22 19:05:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:05:34 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:05:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:05:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:05:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:06:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:06:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:06:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:06:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:20 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:20 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:49 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:07:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:21 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:25 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:34 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:38 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:38 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:08:55 WARN  Using indexes to guess the definition of insertInOrder[0m
+2023.03.22 19:08:55 WARN  Using indexes to guess the definition of insertInOrder[0m
+2023.03.22 19:08:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:09:45 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:10:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3 copy.scala[0m
+2023.03.22 19:10:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:10:51 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:10:51 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:10:54 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:10:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:11:21 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:11:25 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:11:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:11:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:11:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:11:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:40 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:40 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:12:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:20 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:13:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:14:49 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:02 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:02 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:02 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:25 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:15:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:25 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:16:32 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:17:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:18:51 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:18:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:19:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:20 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:20 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:20:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4 copy.scala[0m
+2023.03.22 19:20:58 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:32 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:45 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:21:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:22:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:49 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:23:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:24 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:24:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:25:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:26:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:26:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:26:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:26:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:26:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5 copy.scala[0m
+2023.03.22 19:26:25 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:45 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:26:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:24 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:25 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:58 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:27:58 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:45 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:28:45 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6 copy.scala[0m
+2023.03.22 19:28:52 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:29:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/tempCodeRunnerFile.scala[0m
+2023.03.22 19:29:48 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7 copy.scala[0m
+2023.03.22 19:29:51 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:29:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:29:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:31:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+Mar 22, 2023 7:31:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.6.1/scalafmt-config_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.6.0/scalameta_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.6.0/parsers_2.13-4.6.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.6.1/scalafmt-sysops_2.13-3.6.1.jar
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.9/scalap-2.13.9.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.6.0/trees_2.13-4.6.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.6.1/scalafmt-core_2.13-3.6.1.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.jar (94.14 %, 2244352 / 2383988)
+https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.jar (18.68 %, 2244608 / 12014191)
+
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.6.0/common_2.13-4.6.0.jar
+Still downloading:
+https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.jar (77.46 %, 9306112 / 12014191)
+
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.9/scala-compiler-2.13.9.jar
+Mar 22, 2023 7:31:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6070
+2023.03.22 19:31:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+Mar 22, 2023 7:31:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6077
+Mar 22, 2023 7:31:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6079
+Mar 22, 2023 7:31:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6073
+Mar 22, 2023 7:31:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6071
+2023.03.22 19:31:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:18 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:22 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:24 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:32 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:34 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:37 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:32:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+Exception in thread "pool-3-thread-3" java.lang.Error: java.lang.InterruptedException
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1155)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	... 2 more
+2023.03.22 19:33:56 WARN  Using indexes to guess the definition of sumAll[0m
+2023.03.22 19:33:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:33:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:04 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:04 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+Mar 22, 2023 7:34:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6808
+2023.03.22 19:34:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:34:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:34:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:34:47 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:34:49 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:34:49 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:34:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:34:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:34:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:34:51 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:34:51 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:34:52 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:34:52 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:34:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:34:54 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:34:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:34:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question1.scala[0m
+2023.03.22 19:35:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:35:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.22 19:35:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:35:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:35:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:35:14 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:35:16 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:35:17 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:35:21 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:35:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:35:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:35:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:35:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:35:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:35:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:35:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:35:31 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:43:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:43:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:43:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:43:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:43:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:43:58 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:01 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:09 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.22 19:44:33 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:40 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:40 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:46 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:53 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:44:59 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:45:06 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:45:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:45:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:45:08 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.22 19:45:12 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:45:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:45:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:45:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.22 19:45:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:22 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:23 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:24 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.22 19:45:54 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:45:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:45:56 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:46:00 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:46:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:46:05 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:46:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 19:46:19 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:22 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:28 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 19:46:30 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.22 22:25:22 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:34 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:41 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:54 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:25:57 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:26:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:26:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:26:10 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.22 22:26:26 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala[0m
+2023.03.23 11:19:38 INFO  Started: Metals version 0.11.11 in workspace '/Users/byte/Playground/scala/HW2' for client Visual Studio Code 1.76.2.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/byte/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.23 11:19:42 INFO  time: initialize in 3.86s
+2023.03.23 11:19:43 WARN  Build server is not auto-connectable.
+2023.03.23 11:19:43 WARN  no build tool detected in workspace '/Users/byte/Playground/scala/HW2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.03.23 11:19:43 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question4.scala
+2023.03.23 11:19:45 INFO  no build target found for /Users/byte/Playground/scala/HW2/Question4.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.03.23 11:19:47 INFO  time: code lens generation in 4.46s
+2023.03.23 11:30:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala
+2023.03.23 12:55:27 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala
+2023.03.23 12:55:27 INFO  Shutting down server
+2023.03.23 12:55:27 INFO  shutting down Metals
+2023.03.23 12:55:27 INFO  Exiting server
+2023.03.27 00:50:41 INFO  Started: Metals version 0.11.11 in workspace '/Users/byte/Playground/scala/HW2' for client Visual Studio Code 1.76.2.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/byte/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.27 00:50:42 INFO  time: initialize in 0.4s[0m
+2023.03.27 00:50:42 WARN  Build server is not auto-connectable.[0m
+2023.03.27 00:50:42 WARN  no build tool detected in workspace '/Users/byte/Playground/scala/HW2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.03.27 00:50:42 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question3.scala[0m
+2023.03.27 00:50:43 INFO  no build target found for /Users/byte/Playground/scala/HW2/Question3.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.03.27 00:50:44 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:50:45 INFO  time: code lens generation in 2.84s[0m
+2023.03.27 00:50:45 INFO  time: code lens generation in 1.36s[0m
+2023.03.27 00:50:55 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:03 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:11 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:13 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:15 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:29 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:35 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question8.scala[0m
+2023.03.27 00:52:36 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question7.scala[0m
+2023.03.27 00:52:38 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question6.scala[0m
+2023.03.27 00:52:39 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question5.scala[0m
+2023.03.27 10:46:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:46:56 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:06 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:11 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:39 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:39 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:43 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:48 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:47:56 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:12 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:13 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:15 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:17 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:19 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+Mar 27, 2023 10:48:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1071
+2023.03.27 10:48:20 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:20 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:20 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:23 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:42 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:44 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:46 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:12: error: [dialect scala213] : expected but , found
+  def diff(a, b: List[Int]): List[Int] = {
+            ^[0m
+2023.03.27 10:48:46 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:48:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+Mar 27, 2023 10:48:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.03.27 10:49:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:19 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:23 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:27 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:30 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:34 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:37 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:52 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:57 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:49:57 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:06 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:10 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:16 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:17 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:17 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:26 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:31 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:37 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:37 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:43 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:44 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:49 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:50:58 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:51:20 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:51:24 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:51:25 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:55:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:55:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:26 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:28 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:48 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:49 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:57:56 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:00 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:04 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:06 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:10 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:11 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:11 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:15 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:17 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:19 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:27 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:41 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:27: error: [dialect scala213] illegal start of simple expression
+  }
+  ^[0m
+2023.03.27 10:58:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:41 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:27: error: [dialect scala213] illegal start of simple expression
+  }
+  ^[0m
+2023.03.27 10:58:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:45 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:27: error: [dialect scala213] illegal start of simple expression
+  }
+  ^[0m
+2023.03.27 10:58:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:45 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:27: error: [dialect scala213] illegal start of simple expression
+  }
+  ^[0m
+2023.03.27 10:58:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:47 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:27: error: [dialect scala213] illegal start of simple expression
+  }
+  ^[0m
+2023.03.27 10:58:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:47 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:27: error: [dialect scala213] illegal start of simple expression
+  }
+  ^[0m
+2023.03.27 10:58:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:52 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:58:55 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:05 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:16 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:20 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:21 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:24 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:27 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:28 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:30 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:33 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:36 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:40 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:46 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 10:59:58 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:00 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:03 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:34: error: [dialect scala213] ) expected but else found
+      identifyMaxAcc(x,fs.tail,if(newVal>maxVal) newVal else maxVal,if(newVal>maxVal) newVal else maxValif(newVal>maxVal) newVal else maxVal)
+                                                                                                                                 ^[0m
+2023.03.27 11:00:03 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:05 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:05 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:12 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:15 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:15 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:23 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:24 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:25 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:25 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:32 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:39 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:00:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:01:16 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:02:05 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:02:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:02:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:02:09 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:02:09 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:03:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:36 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:50 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:50 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:04:58 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:03 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:04 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:06 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:09 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:10 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:23 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:23 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:26 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:29 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:31 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:33 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:40 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:50 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:52 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:05:58 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:01 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    (a) match{
+    ^[0m
+2023.03.27 11:06:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:01 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    (a) match{
+    ^[0m
+2023.03.27 11:06:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:03 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:04 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:07 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    a match a{
+    ^[0m
+2023.03.27 11:06:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:07 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    a match a{
+    ^[0m
+2023.03.27 11:06:07 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:09 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    match a{
+    ^[0m
+2023.03.27 11:06:09 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:09 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    match a{
+    ^[0m
+2023.03.27 11:06:09 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:10 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    a match{
+    ^[0m
+2023.03.27 11:06:10 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:10 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    a match{
+    ^[0m
+2023.03.27 11:06:10 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:13 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:20 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:22 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    a match{
+    ^[0m
+2023.03.27 11:06:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:22 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    a match{
+    ^[0m
+2023.03.27 11:06:23 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:26 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    return a match{
+    ^[0m
+2023.03.27 11:06:26 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:26 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:22: error: [dialect scala213] illegal start of declaration (possible cause: missing `=' in front of current method body)
+    return a match{
+    ^[0m
+2023.03.27 11:06:26 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:29 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil =>
+        ^[0m
+2023.03.27 11:06:29 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:31 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil =>
+        ^[0m
+2023.03.27 11:06:31 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:31 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil =>
+        ^[0m
+2023.03.27 11:06:31 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:37 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:40 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:43 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:45 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:06:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:45 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:06:46 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:47 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:06:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:47 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:06:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:50 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:51 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:06:50 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:51 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:06:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:54 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0;
+        ^[0m
+2023.03.27 11:06:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:54 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0;
+        ^[0m
+2023.03.27 11:06:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:06:56 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:04 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:07:04 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:08 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:07:08 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:08 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:07:08 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:12 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:13 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:07:13 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:13 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:07:13 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:15 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:23: error: [dialect scala213] case expected but identifier found
+        Nil => 0
+        ^[0m
+2023.03.27 11:07:15 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:34 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:43 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:47 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:26: error: [dialect scala213] illegal start of simple expression
+      }
+      ^[0m
+2023.03.27 11:07:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:47 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:26: error: [dialect scala213] illegal start of simple expression
+      }
+      ^[0m
+2023.03.27 11:07:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:53 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:57 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:57 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:07:58 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:04 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:04 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:13 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:15 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:43 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:43 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:44 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:08:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:09:02 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:09:17 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:09:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:09:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:45 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:25: error: [dialect scala213] ; expected but . found
+    count(a, b) >= (Float)b.length / 2
+                           ^[0m
+2023.03.27 11:10:45 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:46 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:25: error: [dialect scala213] ; expected but . found
+    count(a, b) >= (Float) b.length / 2
+                            ^[0m
+2023.03.27 11:10:46 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:46 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:25: error: [dialect scala213] ; expected but . found
+    count(a, b) >= (Float) b.length / 2
+                            ^[0m
+2023.03.27 11:10:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:51 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:52 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:53 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:10:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:14 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:16 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:21 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:21 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:31 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:46 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:11:48 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:13:03 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/Question10.scala[0m
+2023.03.27 11:14:41 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/Question9.scala[0m
+2023.03.27 11:16:07 WARN  no build target for: /Users/byte/Playground/scala/HW2/Question2.scala[0m
+2023.03.27 11:22:50 WARN  no build target for: /Users/byte/Playground/scala/HW2/tempCodeRunnerFile.scala[0m
+2023.03.27 11:23:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:29:52 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:29:54 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:29:56 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:29:59 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:00 ERROR scalafmt: /Users/byte/Playground/scala/hello.scala:34: error: [dialect scala213] ; expected but else found
+        else count(a.tail, b)
+        ^[0m
+2023.03.27 11:30:00 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:09 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:11 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:14 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:18 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:22 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:30 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:35 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:37 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:37 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:38 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:41 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:30:47 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:31:56 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:32:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:32:01 WARN  no build target for: /Users/byte/Playground/scala/hello.scala[0m
+2023.03.27 11:34:57 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+2023.03.27 11:34:59 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+2023.03.27 11:34:59 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+2023.03.27 11:35:03 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+2023.03.27 11:35:03 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+2023.03.27 11:35:03 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+2023.03.27 11:35:03 WARN  no build target for: /Users/byte/Downloads/6430282121_scalaHW1-655495-16797643046260/moreThanHalf.scala[0m
+Mar 27, 2023 11:35:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7631
+2023.03.27 11:55:39 INFO  Shutting down server[0m
+2023.03.27 11:55:39 INFO  shutting down Metals[0m
+2023.03.27 11:55:39 INFO  Exiting server[0m
